@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box ;
+}
+h1{
+    font-style: italic;
+    color: purple;
+}
+form a{
+    text-align: center;
+}
+body {
+    margin: 15px 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+.container{
+    background-color: #478ffc3e;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+input[Type="text"],
+input[Type="password"]{
+    width: 90%;
+    padding: 12px;
+    border: 1px solid rgb(68, 57, 57);
+    border-radius: 5px;
+    margin: 10px;
+}
+input[Type="submit"] {
+    background-color: rgb(215, 41, 215);
+    Padding: 10px;
+    width:80%;
+    border-radius: 7px;
+}
+.Submit {
+    text-align: center;
+    padding: 10px;
+    border-color: blue;
+}
+

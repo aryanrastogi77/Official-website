@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box ;
+}
+body {
+    margin: 15px 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+h6{
+    text-align: right7;
+}
+.Submit {
+    text-align: center;
+    padding: 10px;
+    border-color: blue;
+}
+.container{
+    background-color: #478ffc3e;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+input[Type="text"],
+textarea{
+    width: 90%;
+    padding: 12px;
+    border: 1px solid rgb(68, 57, 57);
+    border-radius: 5px;
+    margin: 10px;
+}
+input[Type="submit"] {
+    background-color: rgb(131, 180, 243);
+    Padding: 10px;
+    width:90%;
+    border-radius: 7px;
+}
